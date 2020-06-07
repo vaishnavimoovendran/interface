@@ -1,0 +1,131 @@
+
+.header {
+  background-color: #ff0000;
+  padding: 22px;
+  text-align: center;
+font-style: italic ;
+ font-weight: bold;
+  font-family: "Cooper Black", Times, serif;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 20px;
+  font-size: 22px;
+  text-decoration: none;
+font-family: "Cooper Black", Times, serif;
+font-style: italic ;
+ font-weight: bold;
+color:red;
+}
+
+
+h1{
+font-family: "Cooper Black", Times, serif;
+font-weight: bold;
+color: #ffff66;
+}
+
+body{
+background-image:url("back.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+color:#00FF7F;
+font-size:25px;
+font-family: "Harlow Solid Italic", Times, serif;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: red;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: "Cooper Black", Times, serif;
+  font-size: 22px;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+form{
+  
+  background-color: #F7FE2E;
+  width: 400px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 50px;
+font-family: "Cooper Black", Times, serif;
+font-style: italic ;
+ font-weight: bold;
+  font-size: 22px;
+ 
+}
+input[type=text] ,select,input[type=submit] ,input[type=password] {
+ background-color:#0FFADA; 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.button {
+background-color: #f44336;
+}
+option{
+background-color:;FF00FF;
+}
+b{
+color:#800080;
+}
+select{
+background:ADFF2F;
+}
+.footer {
+  background-color: #ff0000;
+  padding: 10px;
+  text-align: center;
+}
+
+
