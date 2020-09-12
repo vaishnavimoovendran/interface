@@ -1,2 +1,2 @@
-# User interface
+# UI
 BLOOD BANK (UI)
